@@ -1,6 +1,6 @@
 
 
-<h2 align=center>Hey there!</h2>
+<h2 align=center>👋 Hey there!</h2>
 <p align=center>Welcome, I'm Ignacio.</p>
 
 
