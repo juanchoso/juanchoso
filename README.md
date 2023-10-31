@@ -28,7 +28,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB??style=flat-square&logo=python&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-00599C??style=flat-square&logo=c&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C??style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img alt="Node.JS" src="https://img.shields.io/badge/Node.js-In%20Progress-333333?labelColor=339933&style=flat&logo=Node.js&logoColor=white" />
+    <img alt="Node.JS" src="https://img.shields.io/badge/Node.js-333333?labelColor=339933&style=flat&logo=Node.js&logoColor=white" />
   <br>
     <img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white"/>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26??style=flat-square&logo=html5&logoColor=white" />
